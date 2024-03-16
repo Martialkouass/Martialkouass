@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I enjoy experimenting with new coding libraries and frameworks in my free time, and I'm always on the lookout for interesting datasets to analyze.
 
 <!---
-Martialkouass/Martialkouass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Martialkouass/Profil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
